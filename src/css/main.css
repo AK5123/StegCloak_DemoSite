@@ -586,3 +586,7 @@ textarea.input100 {
   padding-bottom: 10px;
   font-family: Raleway-Black;
 }
+
+.wraptext {
+  word-break : break-word!important;
+}
